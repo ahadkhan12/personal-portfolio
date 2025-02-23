@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <div className='navbar flex mx-auto justify-between w-[84%] py-3 sticky top-0 mb-10 '>
       <div className="logo w-[20%] flex items-center text-4xl">
-        <img className='p-4 w-[5.5rem]' src="src\assets\Subtract.png" alt="logo" />
+        <img className='p-4 w-[5.5rem]' src="public\Subtract.png" alt="logo" />
         <span>
           <span className='font-semibold'>A</span>
           <span className='opacity-80'>had</span>
